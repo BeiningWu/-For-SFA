@@ -1,2 +1,0 @@
-D:\datastructure\十字链表\Debug\十字链表.exe
-D:\datastructure\十字链表\Debug\十字链表.pdb
