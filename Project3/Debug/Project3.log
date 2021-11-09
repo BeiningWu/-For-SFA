@@ -1,0 +1,9 @@
+﻿  源.c
+D:\datastructure\Project3\源.c(51,7): warning C4013: “gets”未定义；假设外部返回 int
+D:\datastructure\Project3\源.c(79,14): warning C4013: “defpol”未定义；假设外部返回 int
+D:\datastructure\Project3\源.c(94,10): warning C4047: “return”:“char”与“char *”的间接级别不同
+D:\datastructure\Project3\源.c(164,11): warning C4101: “sp2”: 未引用的局部变量
+D:\datastructure\Project3\源.c(164,6): warning C4101: “sp1”: 未引用的局部变量
+D:\datastructure\Project3\源.c(42): warning C4716: “defpower”: 必须返回一个值
+D:\datastructure\Project3\源.c(38): warning C4716: “defcoefficirnt”: 必须返回一个值
+  Project3.vcxproj -> D:\datastructure\Project3\Debug\Project3.exe
