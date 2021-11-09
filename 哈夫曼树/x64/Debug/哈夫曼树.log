@@ -1,0 +1,12 @@
+﻿  源.c
+D:\datastructure\哈夫曼树\源.c(55,16): warning C4101: “q”: 未引用的局部变量
+D:\datastructure\哈夫曼树\源.c(111,36): warning C4013: “stack_isempty”未定义；假设外部返回 int
+D:\datastructure\哈夫曼树\源.c(120,11): warning C4013: “pop”未定义；假设外部返回 int
+D:\datastructure\哈夫曼树\源.c(120,15): warning C4047: “=”:“Huffman *”与“int”的间接级别不同
+D:\datastructure\哈夫曼树\源.c(202,12): warning C4133: “=”: 从“Huffman *”到“int *”的类型不兼容
+D:\datastructure\哈夫曼树\源.c(213,12): warning C4047: “=”:“int *”与“int”的间接级别不同
+D:\datastructure\哈夫曼树\源.c(227,22): warning C4047: “return”:“int”与“int *”的间接级别不同
+D:\datastructure\哈夫曼树\源.c(168): warning C4715: “get_char”: 不是所有的控件路径都返回值
+D:\datastructure\哈夫曼树\源.c(228): warning C4715: “pop”: 不是所有的控件路径都返回值
+D:\datastructure\哈夫曼树\源.c(187): warning C4715: “get_num”: 不是所有的控件路径都返回值
+  哈夫曼树.vcxproj -> D:\datastructure\哈夫曼树\x64\Debug\哈夫曼树.exe
