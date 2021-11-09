@@ -1,2 +1,0 @@
-D:\datastructure\括号匹配的检验\Debug\括号匹配的检验.exe
-D:\datastructure\括号匹配的检验\Debug\括号匹配的检验.pdb
