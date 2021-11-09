@@ -1,0 +1,9 @@
+﻿  源.c
+D:\datastructure\Project1\源.c(16,7): warning C4013: “gets”未定义；假设外部返回 int
+D:\datastructure\Project1\源.c(94,9): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int *”
+D:\datastructure\Project1\源.c(94,9): warning C4313: “printf”: 格式字符串中的“%x”与“int *”类型的参数 1 冲突
+D:\datastructure\Project1\源.c(94,9): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“int *”
+D:\datastructure\Project1\源.c(94,9): warning C4313: “printf”: 格式字符串中的“%x”与“int *”类型的参数 2 冲突
+D:\datastructure\Project1\源.c(196,11): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int *”
+D:\datastructure\Project1\源.c(196,11): warning C4313: “printf”: 格式字符串中的“%x”与“int *”类型的参数 1 冲突
+  Project1.vcxproj -> D:\datastructure\Project1\x64\Debug\Project1.exe
