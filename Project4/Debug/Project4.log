@@ -1,4 +1,0 @@
-﻿  源.c
-D:\datastructure\Project4\源.c(13,14): warning C4101: “pa”: 未引用的局部变量
-D:\datastructure\Project4\源.c(13,20): warning C4101: “pb”: 未引用的局部变量
-D:\datastructure\Project4\源.c(18,8): error C2037: “next”的左侧部分指定未定义的结构/联合“POL”
